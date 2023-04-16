@@ -75,7 +75,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [💕ᴍᴜsɪᴄ ʙᴏᴛ 💝](https://telegram.me/Dark_queen_robot)
+  [💕ᴍᴜsɪᴄ ʙᴏᴛ 💝](https://telegram.me/ZiddiXMusic_bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
