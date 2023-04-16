@@ -3,7 +3,7 @@
 </p>
 
 ### ʙᴇsᴛ ᴍᴜsɪᴄ ʙᴏᴛ
-  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
+  <a href="https://github.com/LuckyRaja0"><img alt="Website" src="https://img.shields.io/badge/Lucky Raja-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/stargazers)
   [![Forks](https://img.shields.io/github/forks/Itzvenomo/VenomXMusic?style=social)](https://github.com/Itzvenomo/VenomXMusic/fork)
