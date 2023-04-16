@@ -47,7 +47,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Itzvenomo/VenomXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/LuckyRaja0/ZiddiXMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -55,7 +55,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Itzvenomo/VenomXMusic && cd VenomXMusic`
+`git clone https://github.com/LuckyRaja0/ZiddiXMusic && cd VenomXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
