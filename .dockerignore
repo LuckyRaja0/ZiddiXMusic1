@@ -1,6 +1,6 @@
 .env
 .cache
-venomxlogs.txt
+Ziddixlogs.txt
 .DS_Store
 *.session
 raw_files/
