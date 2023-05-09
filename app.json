@@ -1,12 +1,12 @@
 {
-    "name": "𓆩❤𝐙𝐢𝐝𝐝𝐢🇽𝐐𝐮𝐞𝐞𝐧❤𓆪",
+    "name": "𓆩𝒁𝒊𝒅𝒅𝒊🇽‌𝑴𝒖𝒔𝒊𝒄❤𓆪",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/ac67418a2d7fda9050617.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "VenomX",
+    "ZiddiX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "𓆩❤𝐙𝐢𝐝𝐝𝐢🇽𝐐𝐮𝐞𝐞𝐧❤𓆪",
+        "value": "𓆩𝒁𝒊𝒅𝒅𝒊🇽‌𝑴𝒖𝒔𝒊𝒄❤𓆪",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
