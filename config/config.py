@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/QuizStudyUPSC")
+    "SUPPORT_CHANNEL", "https://t.me/+g0YcEKl54yU0ZTU9")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/Doston_Ki_Masti")
+    "SUPPORT_GROUP", "https://t.me/+WzIhQYq_V7o5ZGQ1")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
@@ -95,7 +95,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "venomxlogs.txt"
+LOG_FILE_NAME = "Ziddixlogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
